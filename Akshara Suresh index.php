@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-<title>Akshara 1979ffdc </title>
+<title>AKSHARA SURESH 1979ffdc</title>
 <?php require_once "bootstrap.php"; ?>
 </head>
 <body>
